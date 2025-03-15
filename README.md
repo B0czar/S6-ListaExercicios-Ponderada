@@ -1,4 +1,4 @@
-# S6-ListaExercicios-Ponderada - **Entrega: 14/03/2025 23:59**
+# S6-ListaExercicios-Ponderada - **Entrega: 14/03/2025**
 
 # Yuri Lessa Boczar - **T15-G4**
 

@@ -1,8 +1,12 @@
-# S6-ListaExercicios-Ponderada - **Entrega: 14/03/2025**
+<h1 style="color: purple;">
+  S6-ListaExercicios-Ponderada - <strong style="color: #FF4500;">Entrega: 14/03/2025</strong>
+</h1>
 
-# Yuri Lessa Boczar - **T15-G4**
+<h1 style="color: purple;">
+  Yuri Lessa Boczar - <strong style="color: #FF4500;">T15-G4</strong>
+</h1>
 
-## Questões Objetivas:
+<h2 style="color: purple;">Questões Objetivas:</h2>
 
 ### 1)
 **Resposta:** a)  
@@ -52,6 +56,10 @@
 **Justificativa:** 
     A asserção sobre polimorfismo é correta; porém, em JavaScript não se implementa polimorfismo por meio da sobrecarga de métodos, tornando a razão falsa.
 
-## As questões dissertativas estão em arquivos `.js` separados
+<h2 style="color: purple;">
+  As questões dissertativas estão em arquivos <code>.js</code> separados
+</h2>
 
-## [CLIQUE AQUI KIZZY!!!!](https://r.mtdv.me/Homenagem-Kizzy-Terra)
+<h2 style="color: #32CD32;">
+  <a href="https://r.mtdv.me/Homenagem-Kizzy-Terra" style="color: #20B2AA;">CLIQUE AQUI KIZZY!!!!</a>
+</h2>

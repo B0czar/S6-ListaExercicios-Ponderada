@@ -63,3 +63,5 @@
 <h2 style="color: #32CD32;">
   <a href="https://r.mtdv.me/Homenagem-Kizzy-Terra" style="color: #20B2AA;">CLIQUE AQUI KIZZY!!!!</a>
 </h2>
+
+## Coloquei agumas coisas em roxo, se quiser ver funcionando use esse site: https://markdownlivepreview.com/
